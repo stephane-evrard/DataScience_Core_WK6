@@ -1,4 +1,4 @@
-# DataScience Core Week 4
+# DataScience Core Week 6
 
 ## Authors
 * Stephane Evrard Ded Gozzo
@@ -6,31 +6,41 @@
 ## Project setup instructions
 
 ### *To start using this project use the following commands:*
-* git clone  https://github.com/stephane-evrard/DataScience_Core_WK4.git
-* cd Moringa_DataScience_Core_WK4_IP#
+* git clone  https://github.com/stephane-evrard/DataScience_Core_WK6.git
+* cd Moringa_DataScience_Core_WK6_IP#
 * code .
 
 ## Description
 
-* Investigating the electric car usage in Paris during weekdays.
+* In this project I will be acting as a football analyst in Mchezopesa Ltd company to :
 
-* Test a Hypothesis: Whether there is difference in the means of blue cars taken in two different postal codes selected randomly.
+* Predict the result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (including rank of the respective team).
 
 ## Experimental Design
 
-* Exploratory Data Analysis.
+Experimental design taken Perform your EDA
 
-* Data Cleaning.
+* Perform any necessary feature engineering
 
-* Univariate, and Bivariate Analysis.
+* Check of multicollinearity
 
-* Visualizations.
+* Building a model
 
-* Simple Random Sampling.
+* Approach 1: Polynomial regression model
 
-* Stratified Random Sampling.
+* Approach 2: Logistic regression model
 
-* Hypothesis Testing
+* Approach 3: Ridge, Lasso, & Elastic Net Regression models
+
+* Cross-validate the model
+
+* Compute RMSE
+
+* Create residual plots for the model
+
+* Assess Heteroscedasticity using Bartlett’s test
+
+* Challenge the solution.
 
 ## Setup/Installation Requirements
 
